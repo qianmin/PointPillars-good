@@ -1,3 +1,13 @@
+# 注意
+MSVC2019+
+
+cuda11.3 nvccfor11.x +
+
+anaconda pytorch1.9.1_cuda11.3_nvcc8.0
+
+（编译成功）（可以运行跑起来）
+
+
 # [PointPillars: Fast Encoders for Object Detection from Point Clouds](https://arxiv.org/abs/1812.05784) 
 
 A Simple PointPillars PyTorch Implenmentation for 3D Lidar(KITTI) Detection. [[Zhihu](https://zhuanlan.zhihu.com/p/521277176)]
